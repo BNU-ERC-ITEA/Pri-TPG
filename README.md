@@ -81,7 +81,7 @@ This codebase is built on the excellent [FormalGeo](https://github.com/FormalGeo
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-org/Pri-TPG.git
+git clone https://github.com/BNU-ERC-ITEA/Pri-TPG.git
 cd Pri-TPG
 
 # Editable install (one command)
