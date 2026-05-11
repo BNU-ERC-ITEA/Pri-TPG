@@ -1,0 +1,5 @@
+{
+  "train": [1, 2294],
+  "test": [2295, 2848],
+  "description": "Geo3K dataset split - train: 1-2294, test: 2295-2848"
+}
