@@ -1,6 +1,6 @@
 <div align="center">
 
-## *On Multi-Step Theorem Prediction via Non-Parametric Structural Priors*
+## *Non-Parametric Structural Priors for Geometry Theorem Prediction*
 
 <p align="center">
   <img src="https://img.shields.io/badge/ICML-2026-red?style=for-the-badge&logo=arxiv&logoColor=white" alt="ICML 2026">
