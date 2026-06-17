@@ -191,7 +191,7 @@ If you find our work helpful, please consider citing:
 
 ```bibtex
 @inproceedings{Pri-TPG,
-    title     = {On Multi-Step Theorem Prediction via Non-Parametric Structural Priors},
+    title     = {Non-Parametric Structural Priors for Geometry Theorem Prediction},
     author    = {Zhao, Junbo and Zhang, Ting and Li, Can and He, Wei and Wang, Jingdong and Huang, Hua},
     booktitle = {Proceedings of the International Conference on Machine Learning (ICML)},
     year      = {2026}
